@@ -1,0 +1,4 @@
+ 720,237,611 instructions             
+
+       7.901488841 seconds time elapsed
+

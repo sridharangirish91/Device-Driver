@@ -1,0 +1,6 @@
+ Performance counter stats for './a.out':
+
+    11,877,104,119 cycles:k                 
+
+      10.011218121 seconds time elapsed
+
